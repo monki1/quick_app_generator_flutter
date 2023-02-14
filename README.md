@@ -8,10 +8,7 @@
 ```dart
 main(){
   runApp(
-      quickAppGenerator(
-        ///TODO: put your widget here
-          [Widget],
-      )
+      QuickApp(QuickPage(YOUR_WIDGET));
   );
 }
 ```
