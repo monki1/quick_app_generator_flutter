@@ -1,6 +1,6 @@
 name: quick_app_generator
 description: quickly generate a flutter app with input widget as body within safe area
-homepage: https://github.com/monki1/quick_app_generator
+homepage: https://github.com/monki1/quick_app_generator_flutter
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
