@@ -1,5 +1,5 @@
 name: quick_app_generator
-description: A new Flutter project.
+description: quickly generate a flutter app with input widget as body within safe area
 homepage: https://github.com/monki1/quick_app_generator
 
 # The following line prevents the package from being accidentally published to
